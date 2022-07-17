@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/YANADO/static/css/main.859d045f.css",
-    "main.js": "/YANADO/static/js/main.562064fb.js",
-    "static/js/787.c3c49e6e.chunk.js": "/YANADO/static/js/787.c3c49e6e.chunk.js",
-    "index.html": "/YANADO/index.html",
-    "main.859d045f.css.map": "/YANADO/static/css/main.859d045f.css.map",
-    "main.562064fb.js.map": "/YANADO/static/js/main.562064fb.js.map",
-    "787.c3c49e6e.chunk.js.map": "/YANADO/static/js/787.c3c49e6e.chunk.js.map"
+    "main.css": "/Hansan/static/css/main.7785ed08.css",
+    "main.js": "/Hansan/static/js/main.63b6dbc4.js",
+    "static/js/787.881d18a4.chunk.js": "/Hansan/static/js/787.881d18a4.chunk.js",
+    "static/media/waves.mp4": "/Hansan/static/media/waves.76439b734a60e1e4fa42.mp4",
+    "static/media/leesunsin2.png": "/Hansan/static/media/leesunsin2.51817c2cdf17a8c85c11.png",
+    "static/media/handoor1.png": "/Hansan/static/media/handoor1.348780f5bd0328c56fe7.png",
+    "static/media/handoor2.png": "/Hansan/static/media/handoor2.1503d00650225985da6f.png",
+    "static/media/haru.jpg": "/Hansan/static/media/haru.78ae936e2c38b07bcbf8.jpg",
+    "static/media/navy.png": "/Hansan/static/media/navy.ca5009582b8d3f8a7fff.png",
+    "static/media/zara_head.png": "/Hansan/static/media/zara_head.c50751418afd66199484.png",
+    "static/media/sunsin.jpg": "/Hansan/static/media/sunsin.9c392289014a5ada384b.jpg",
+    "static/media/leesunsin.jpg": "/Hansan/static/media/leesunsin.4ae028b122ccc630c00e.jpg",
+    "index.html": "/Hansan/index.html",
+    "main.7785ed08.css.map": "/Hansan/static/css/main.7785ed08.css.map",
+    "main.63b6dbc4.js.map": "/Hansan/static/js/main.63b6dbc4.js.map",
+    "787.881d18a4.chunk.js.map": "/Hansan/static/js/787.881d18a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.859d045f.css",
-    "static/js/main.562064fb.js"
+    "static/css/main.7785ed08.css",
+    "static/js/main.63b6dbc4.js"
   ]
 }
