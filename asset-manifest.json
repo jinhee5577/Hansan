@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hansan/static/css/main.7785ed08.css",
-    "main.js": "/Hansan/static/js/main.63b6dbc4.js",
+    "main.css": "/Hansan/static/css/main.9fedfe4d.css",
+    "main.js": "/Hansan/static/js/main.eca6612b.js",
     "static/js/787.881d18a4.chunk.js": "/Hansan/static/js/787.881d18a4.chunk.js",
     "static/media/waves.mp4": "/Hansan/static/media/waves.76439b734a60e1e4fa42.mp4",
     "static/media/leesunsin2.png": "/Hansan/static/media/leesunsin2.51817c2cdf17a8c85c11.png",
@@ -13,12 +13,12 @@
     "static/media/sunsin.jpg": "/Hansan/static/media/sunsin.9c392289014a5ada384b.jpg",
     "static/media/leesunsin.jpg": "/Hansan/static/media/leesunsin.4ae028b122ccc630c00e.jpg",
     "index.html": "/Hansan/index.html",
-    "main.7785ed08.css.map": "/Hansan/static/css/main.7785ed08.css.map",
-    "main.63b6dbc4.js.map": "/Hansan/static/js/main.63b6dbc4.js.map",
+    "main.9fedfe4d.css.map": "/Hansan/static/css/main.9fedfe4d.css.map",
+    "main.eca6612b.js.map": "/Hansan/static/js/main.eca6612b.js.map",
     "787.881d18a4.chunk.js.map": "/Hansan/static/js/787.881d18a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7785ed08.css",
-    "static/js/main.63b6dbc4.js"
+    "static/css/main.9fedfe4d.css",
+    "static/js/main.eca6612b.js"
   ]
 }
