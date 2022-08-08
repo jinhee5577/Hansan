@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hansan/static/css/main.0c98a83f.css",
-    "main.js": "/Hansan/static/js/main.3a1920b2.js",
+    "main.js": "/Hansan/static/js/main.3e17d300.js",
     "static/js/787.881d18a4.chunk.js": "/Hansan/static/js/787.881d18a4.chunk.js",
     "static/media/waves.mp4": "/Hansan/static/media/waves.76439b734a60e1e4fa42.mp4",
     "static/media/leesunsin2.png": "/Hansan/static/media/leesunsin2.51817c2cdf17a8c85c11.png",
@@ -14,11 +14,11 @@
     "static/media/leesunsin.jpg": "/Hansan/static/media/leesunsin.4ae028b122ccc630c00e.jpg",
     "index.html": "/Hansan/index.html",
     "main.0c98a83f.css.map": "/Hansan/static/css/main.0c98a83f.css.map",
-    "main.3a1920b2.js.map": "/Hansan/static/js/main.3a1920b2.js.map",
+    "main.3e17d300.js.map": "/Hansan/static/js/main.3e17d300.js.map",
     "787.881d18a4.chunk.js.map": "/Hansan/static/js/787.881d18a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c98a83f.css",
-    "static/js/main.3a1920b2.js"
+    "static/js/main.3e17d300.js"
   ]
 }
